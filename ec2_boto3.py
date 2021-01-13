@@ -10,3 +10,4 @@ instances = ec2.create_instances(
      InstanceType='t2.micro',
      KeyName='dev2020'
  )
+ 
